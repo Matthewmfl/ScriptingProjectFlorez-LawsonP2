@@ -21,6 +21,6 @@ public class DualAxisExample : MonoBehaviour
         float xPos = h * hRange;
         float yPos = v * vRange;
 
-        transform.position = new Vector3(xPos, 0, yPos);
+        transform.position = new Vector3(xPos, 5, yPos);
     }
 }

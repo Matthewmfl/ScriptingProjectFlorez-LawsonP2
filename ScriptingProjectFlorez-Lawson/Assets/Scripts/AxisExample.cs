@@ -17,7 +17,7 @@ public class AxisExample : MonoBehaviour
         float h = Input.GetAxis("Horizontal");
         float xPos = h * range;
 
-        transform.position = new Vector3(xPos, 2f, 0);
+        transform.position = new Vector3(xPos, 2f, 5);
         Debug.Log("Value Returned: " + h.ToString("F2"));
     }
 }

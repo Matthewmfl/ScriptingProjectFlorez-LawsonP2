@@ -155,8 +155,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4e8cbeda7284407498e500d34e8eb138, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  hRange: 0
-  vRange: 0
+  hRange: 5
+  vRange: 5
 --- !u!135 &75260497
 SphereCollider:
   m_ObjectHideFlags: 0
@@ -267,7 +267,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fcae7c4550f4a904eb3e6235e8565dc4, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  range: 0
+  range: 5
 --- !u!136 &470501270
 CapsuleCollider:
   m_ObjectHideFlags: 0
@@ -557,7 +557,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 006be37dfb5a73343b41ada424322ce1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  range: 0
+  range: 5
 --- !u!65 &1639467267
 BoxCollider:
   m_ObjectHideFlags: 0
